@@ -20,16 +20,17 @@ I create websites, web applications, and browser games using modern AI tools and
 
 ## 🛠 Tech Stack
 
-- HTML
-- CSS
-- JavaScript
-- Tilda
-- Lovable
-- ChatGPT
-- Gemini
+
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+![Tilda](https://img.shields.io/badge/Tilda-000000?style=for-the-badge)
+![Lovable](https://img.shields.io/badge/Lovable-FF4D6D?style=for-the-badge)
 
 ---
-
 ## 📂 Featured Projects
 
 ### 🍰 SweetMath
@@ -46,5 +47,8 @@ A browser clicker game developed with HTML, CSS, and JavaScript featuring achiev
 ## 🎯 Goals
 
 Currently looking for a remote position where I can build AI-powered digital products, automate business processes, and continue growing as a developer.
+## 📫 Contact
+
+- Email: alena99tyurina@gmail.com
 
 ⭐ Thanks for visiting my profile!
